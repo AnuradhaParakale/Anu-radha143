@@ -6,6 +6,11 @@ To utilise my knowledge and ideas in the field of data science and machine learn
 - My profile link-[\[LinkedIn-@anuradha\]](https://www.linkedin.com/in/anuradha-parakale-35a898138/)
 - My contribution on kaggle-[\[Kaggle\]](https://www.kaggle.com/anupriyaparakale)
 - My naukri profile-[\[Naukri.com\]](https://www.naukri.com/mnjuser/profile?id=&altresid)
+
+#### My github Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=anu-radha143&show_icons=true&theme=radical">
+
+
 - 🔭 I’m currently working on Machine Learning & Data Science.
 - 🌱 I’m currently learning Deep Learning,NLP & Computer Vision.
 - 💬 Ask me about any tech related stuff.
